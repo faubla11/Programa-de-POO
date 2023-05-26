@@ -14,7 +14,11 @@ namespace Proyecto_POO
 
     internal class Datospersonales
 
-    {
+    
+        
+        
+        
+        {
 
         //public  String nombre;
 
