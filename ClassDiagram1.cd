@@ -7,7 +7,7 @@
       <FileName>Datospersonales.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Proyecto_POO.Detalless">
+   <Class Name="Proyecto_POO.Detalless">
     <Position X="2.5" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
@@ -47,7 +47,7 @@
   <Class Name="Proyecto_POO.mouse" BaseTypeListCollapsed="true">
     <Position X="7.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>mouse.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
