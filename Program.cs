@@ -21,7 +21,8 @@ internal class Program
         Console.WriteLine("Ingrese su correo electrónico, por favor ");
         Datospersonales.correo = Console.ReadLine();
 
-        do
+       
+         do
         {
             Console.Clear();
             Console.WriteLine("===============Catálogo de Componentes===============\n\n" +
