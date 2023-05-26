@@ -80,6 +80,7 @@ namespace Proyecto_POO
                 Console.WriteLine("\tcamara                  $10                          " + camara + "             $" + subtotal);
 
             }
+            
             Console.WriteLine("\t--------------------------------------------------------------------------------");
             Console.WriteLine("\t\t\n        TOTAL:                                                                 $" + TotalF);
             Console.WriteLine("\t\n\n\nOprime un tecla para retroceder...");
