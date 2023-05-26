@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_POO
 {
+    
     internal class Factura : Datospersonales
     {
 
@@ -35,6 +36,7 @@ namespace Proyecto_POO
             }
 
         }
+
 
         public void FacturaFinal()
         {
